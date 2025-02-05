@@ -79,19 +79,19 @@ function App() {
           </div>
           <div className="flex justify-center space-x-4 mb-12">
             <a
-              href="#"
+              href="https://github.com/paras-mahajann"
               className="text-indigo-400 hover:text-indigo-300 transition-colors"
             >
               <Github size={24} />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/paras-mahajan-developer/"
               className="text-indigo-400 hover:text-indigo-300 transition-colors"
             >
               <Linkedin size={24} />
             </a>
             <a
-              href="#"
+              href="mailto:mahajanparas912@gmail.com"
               className="text-indigo-400 hover:text-indigo-300 transition-colors"
             >
               <Mail size={24} />
@@ -120,7 +120,7 @@ function App() {
                 <li>• React & Next.js</li>
                 <li>• JavaScript</li>
                 <li>• Tailwind CSS</li>
-                <li>• WebGL & Three.js</li>
+                <li>• React-Native</li>
               </ul>
             </div>
             <div className="bg-gray-900 p-8 rounded-xl border border-indigo-900/50 hover:border-indigo-400 transition-colors">
